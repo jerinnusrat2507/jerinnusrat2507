@@ -13,9 +13,6 @@ currently focused on building strong web development foundations before pivoting
 toward Application Security (AppSec) and penetration testing. I'm also an active 
 debater and anchor, and I enjoy solving problems through structured, logical thinking.
 
-
-
-
 ---
 
 ### 🔭 Currently Working On
@@ -26,10 +23,8 @@ debater and anchor, and I enjoy solving problems through structured, logical thi
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,mysql" />
 </p>
-
-
 
 ---
 
@@ -40,7 +35,6 @@ debater and anchor, and I enjoy solving problems through structured, logical thi
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
